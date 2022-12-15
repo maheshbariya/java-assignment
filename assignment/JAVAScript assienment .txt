@@ -1,0 +1,194 @@
+							          
+
+
+												    **Assignment**
+
+												
+											   Module (CSS and CSS 3) -2
+
+
+
+
+• What are the benefits of using CSS?
+
+
+- (1)Faster Page Speed‎
+
+  More Code Means slower page speed. And CSS enables you to use less code.CSS allows you to use one CSS 
+  rule and apply it to all occurrences of a certain tag within an HTML document 
+
+- (2)Better User Experience
+
+  CSS not only makes web pages easy on the eye, it also allows for user-friendly formatting. When butt
+  -ons and text are in logical places and well organized, user experience improves.
+
+-(3)Quicker Development Time‏
+  
+ With CSS, you can apply specific formatting rules and styles to multiple pages with one string of code
+ One cascading style sheet can be replicated across several website pages. If, for instance, you have
+ product pages that should all have the same formatting, look, and feel, writing CSS rules for one page
+ will suffice for all pages of that same type.
+
+-(4) Easy Formatting Changes
+ If you need to change the format of a specific set of pages, it’s easy to do so with CSS. There’s no
+ need to fix every individual page. Just edit the corresponding CSS stylesheet and you’ll see changes
+ applied to all the pages that are using that style sheet.
+
+-(5) Compatibility Across Devices
+ Responsive web design matters. In today’s day and age, web pages must be fully visible and easily navigable
+ on all devices. Whether mobile or tablet, desktop, or even smart TV, CSS combines with HTML to make responsive
+ design possible 
+
+
+• What are the disadvantages of CSS?
+
+
+-(1). Confusion due to many CSS levels
+ Beginners are more vulnerable to this issue. They might get confused while opting to learn CSS as there 
+ are many levels of CSS such as CSS2, CSS3, etc.
+
+-(2). Cross-Browser Issues
+ Different browsers work differently. So, you have to check that changes implemented in the website via 
+ CSS codes are reflected properly among all browsers.
+
+-(3). Security Issues
+ Security is important in today’s world driven by technology and data. One of the major disadvantages of
+ CSS is that it has limited security.
+
+-(4). Extra Work for Developers
+ Design services are required to consider and test all CSS codes across different browsers for compatibility.
+ Due to developers testing compatibility for different browsers, their workload increases.
+
+
+• What is the difference between CSS2 and CSS3?
+
+
+- the biggest difference between CSS2 and CSS3 is that CSS3 in now split in to different modules.
+
+
+• Name a few CSS style components
+
+
+- The compontent of css style are (1)selector;element selector,class selector,id selector,universel selector,
+  desended selector,adjecent sibling,general sibling,child selector,gruping selector  (2))Property:It's 
+  like an attribute such as background color,font-size,position,text-align,color,border etc.(3)value:
+  Values:which defines property or values allocate for properties.
+
+
+• What do you understand by CSS opacity?
+
+
+- The opacity CSS property sets the opacity of an element. Opacity is the degree to which content behind an
+  element is hidden, and is the opposite of transparency.
+
+
+• How can the background color of an element be changed?
+
+ 
+- To add background color in HTML, use the CSS background-color property. Set it to the color name or code 
+  you want and place it inside a style attribute. Then add this style attribute to an HTML element, like a
+  table, heading, div, or span tag
+
+
+• How can image repetition of the backup be controlled?
+
+
+- This task can be achieved by using the background-repeat property that will help us to control the 
+  repetition of the image. The background-repeat property in CSS is used to repeat the background image both 
+  horizontally and vertically. It also decides whether the background image will be repeated or not
+
+
+• What is the use of the background-position property? 
+
+
+- The background-position property sets the starting position of a background image. Tip: By default, a 
+  background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally
+
+
+• Which property controls the image scroll in the background? 
+
+
+- The background-attachment property sets whether a background image scrolls with the rest of the page, 
+  or is fixed.
+
+
+• Why should background and color be used as separate properties?
+
+
+- The major difference between CSS background vs background-color property is that the background property
+  is shorthand of all background properties. On the other hand, the background-color property is the subset
+  of the background property used to set the background color.
+
+
+• How to center block elements using CSS1? 
+
+
+- So for centering the element you must set left-margin to auto and right-margin to auto.
+
+
+• How to maintain the CSS specifications?
+
+- 
+
+
+• What are the ways to integrate CSS as a web page?
+
+ 
+- CSS can be added to HTML documents in 3 ways: Inline - by using the style attribute inside HTML elements.
+  Internal - by using a <style> element in the <head> section. External - by using a <link> element to link
+  to an external CSS file
+
+
+• What is embedded style sheets? 
+
+
+- Embedded Stylesheet: It allows you to define styles for a particular HTML document as a whole in one place.
+  This is done by embedding the <style></style> tags containing the CSS properties in the head of your document.
+
+
+• What are the external style sheets?
+
+
+- An external style sheet is a separate CSS file that can be accessed by creating a link within the head section
+  of the webpage. Multiple webpages can use the same link to access the stylesheet. The link to an external style
+  sheet is placed within the head section of the page
+
+
+• What are the advantages and disadvantages of using external style sheets?
+
+
+- External style sheets have the following advantages over internal and inline styles:
+
+- one change to the style sheet will change all linked pages
+- you can create classes of styles that can then be used on many different HTML elements
+- consistent look and feel across multiple web pages
+- improved load times because the css file is downloaded once and applied to each relevant page as needed
+
+
+• What is the meaning of the CSS selector?
+
+
+- A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the browser
+  which HTML elements should be selected to have the CSS property values inside the rule applied to them.
+
+
+• What are the media types allowed by CSS?
+
+ 
+- One of the most important features of style sheets is that they specify how a document is to be presented on 
+  different media: on the screen, on paper, with a speech synthesizer, with a braille device, etc.
+
+- Certain CSS properties are only designed for certain media (e.g., the 'page-break-before' property only applies 
+  to paged media). On occasion, however, style sheets for different media types may share a property, but require
+  different values for that property. For example, the 'font-size' property is useful both for screen and print 
+  media. The two media types are different enough to require different values for the common property; a document
+  will typically need a larger font on a computer screen than on paper. Therefore, it is necessary to express that
+  a style sheet, or a section of a style sheet, applies to certain media types.
+
+
+• What is the rule set?
+
+
+- A collection of rules or signatures that network traffic or system activity is compared against to determine an 
+  action to take—such as forwarding or rejecting a packet, creating an alert, or allowing a system event.
+
